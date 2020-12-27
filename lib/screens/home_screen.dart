@@ -5,6 +5,7 @@ import 'package:xmasmusic/widgets/hotel_carousel.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:xmasmusic/main.dart';
 import 'package:xmasmusic/screens/loading.dart';
+import 'package:xmasmusic/screens/music_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
@@ -33,7 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
             case 1:
               Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => WishListPage()));
+                  MaterialPageRoute(builder: (context) => MusicScreen()));
               break;
           }
         });
