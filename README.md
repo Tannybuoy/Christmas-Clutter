@@ -1,5 +1,5 @@
 # Christmas-Clutter
-Repo for HolidayHacks2020
+If it is Christmas, there is definitely Clutter!
 
 ## Getting Started
 
@@ -15,8 +15,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Inspiration
-Christmas shopping is difficult, and has only gotten more difficult in 2020. People are living away from their families and friends. They are also working within a limited budget and it is important to keep track of your expenditures to spend it wisely while also ensuring your family receives the best gifts. Doing allocation and figure out gifts takes time, and doing it with your Christmas playlist plays in the background can only motivate!
-
+Christmas shopping is difficult, and has only gotten more difficult in 2020. People are living away from their families and friends. They are also working within a limited budget and it is important to keep track of your expenditures to spend it wisely while also ensuring your family receives the best gifts. Doing allocation and figure out gifts takes time, and doing it with your Christmas playlist plays in the background can only motivate! Additionally, it is overwhelming to keep track of everything that interests us - movies, games, recipes, podcasts. We need to keep switching between different platforms for different media. Clutter is your one-stop shop solution - atleast this Christmas!
+ .
 ## What it does
 Gives the user a one-stop shop for accessing everything christmas - movies, songs, games which he/she can go through while working on budgeting christmas shopping for their family and friends!
 
