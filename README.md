@@ -45,4 +45,3 @@ To make Christmas Clutter the one-stop shop for everything christmas -
 * __Flutter Travel UI Tutorial__ - https://www.youtube.com/watch?v=CSa6Ocyog4U
 * __Flutter Live Code: Beautiful Music Player__ - https://www.youtube.com/watch?v=ABZKH8iUOmQ
 * __London App Brewery Playlist__ - https://www.youtube.com/watch?v=I9ceqw5Ny-4&list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm
-* __Wishlist UI Concept Speed Coding__ - https://www.youtube.com/watch?v=xEE31wsmV2U
